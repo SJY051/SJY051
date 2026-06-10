@@ -33,8 +33,10 @@ def describe(event):
     payload = event.get("payload", {})
 
     if kind == "PushEvent":
-        n = payload.get("size") or len(payload.get("commits", []))
-        return date, f"Pushed {n} commit{'s' if n != 1 else ''} to [{repo}]({repo_url})"
+        # The public events API sometimes omits commit counts entirely.
+        n = payload.get("size") or payload.get("distinct_size") or len(payload.get("commits", []))
+        what = f"{n} commit{'s' if n != 1 else ''}" if n else "commits"
+        return date, f"Pushed {what} to [{repo}]({repo_url})"
     if kind == "PullRequestEvent":
         pr = payload.get("pull_request", {})
         if payload.get("action") == "opened":
