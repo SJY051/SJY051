@@ -28,7 +28,7 @@ I do what I love. It started with game development, then security, music for a w
 
 ## Featured Projects
 
-- [**music-composition**](https://github.com/SJY051/music-composition) — Modular music-composition skill for AI assistants: harmony, melody, form, 24+ genres. ⭐ 50+
+- [**music-composition**](https://github.com/SJY051/music-composition) — Modular music-composition skill for AI assistants: harmony, melody, form, 24+ genres. ![GitHub stars](https://img.shields.io/github/stars/SJY051/music-composition?style=flat-square)
 - [**Antikythera**](https://github.com/SJY051/Antikythera) — Python-first local math MCP server; a practical, low-cost alternative to Wolfram-style helpers for AI agents.
 - [**superpowershell**](https://github.com/SJY051/superpowershell) — An agent-friendly Windows PowerShell environment guide for humans and local coding agents.
 
