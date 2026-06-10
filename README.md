@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-I'm a developer building AI agent systems — the agents themselves, the tools they use, and the evaluation infrastructure that keeps them dependable. My security work leans defensive: secure coding, digital forensics, and hardening agents against the attacks I know how to write. Building in the open.
+I do what I love. It started with game development, then security, music for a while, and now AI. I build what I want to build, test it, and ship it in the open. I like it when people enjoy the things I make. These days I'm focused on AI agents and harnesses — figuring out how to make already-useful AI more convenient, safer, and more fun, and having a good time doing it.
 
-AI 에이전트 시스템을 만드는 개발자입니다 — 에이전트 자체와 그들이 쓰는 도구, 그리고 그들을 신뢰할 수 있게 만드는 평가 인프라까지. 보안에서는 방어자에 가깝습니다: 시큐어 코딩과 포렌식, 그리고 직접 쓸 줄 아는 공격으로부터 에이전트를 단단하게 만드는 일. 과정을 공개적으로 기록하는 중입니다.
+제가 좋아하는 것을 합니다. 처음에는 게임 개발, 그 다음에는 보안, 한동안은 음악, 이제는 AI까지요. 만들고 싶은 걸 만들고, 테스트하고, 공개합니다. 제가 만든 것을 남들이 좋아해주는 것을 좋아합니다. 지금은 AI 에이전트와 하네스에 집중하고 있습니다 — 이미 충분히 유용한 AI를 어떻게 더 편리하게, 더 안전하게, 더 재미있게 만들 수 있을지 고민하며, 즐겁게 개발하는 중입니다.
 
 ---
 
