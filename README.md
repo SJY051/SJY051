@@ -95,9 +95,8 @@ Completed the government-funded gifted education program (Basic Track II) with a
 ## Recent Activity
 
 <!-- recent_activity starts -->
+- `2026-08-17` — Pushed commits to [SJY051/D3](https://github.com/SJY051/D3)
 - `2026-08-16` — Pushed commits to [SJY051/D3](https://github.com/SJY051/D3)
-- `2026-08-16` — Pushed commits to [SJY051/D3](https://github.com/SJY051/D3)
-- `2026-08-16` — Opened PR [?](https://github.com/SJY051/D3) in [SJY051/D3](https://github.com/SJY051/D3)
 - `2026-08-16` — Pushed commits to [SJY051/D3](https://github.com/SJY051/D3)
 <!-- recent_activity ends -->
 
